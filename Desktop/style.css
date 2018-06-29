@@ -1,0 +1,49 @@
+.login-page{
+   width:360px;
+   padding:10px; 
+   margin:auto;
+   margin-top:0;
+}
+.form{
+   position:relative;
+   background:cyan;
+   margin:auto;
+   padding:45px;
+   text-align:center
+}
+.form input{
+   font-family:sans-serif;
+   background:#f2f2f2;
+   border:0;
+   margin:5px;
+   padding:15px;
+   font-size:14px;
+}
+.form button{
+   background:green;
+   font-family:sans-serif;
+   outline:0;
+   width:100%
+   padding:15%;
+   font-size:14px;
+   cursor:pointer;
+   text-transform:uppercase;
+   color:white;  
+}
+.comment{
+   height:50%;
+}
+
+textarea{
+   height:90px;
+   width:90%;
+   resize:none;
+}
+
+.send{
+   margin-bottom:3px;
+}
+
+.btnsend{
+   margin-left:180px;
+}
